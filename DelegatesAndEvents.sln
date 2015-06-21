@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CustomLINQExtensionMethods", "CustomLINQExtensionMethods\01.CustomLINQExtensionMethods.csproj", "{9CE95520-FC94-4973-ADB7-5CDD1BA4D545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.InterestCalculator", "InterestCalculator\02.InterestCalculator.csproj", "{22DA0A16-57AE-4277-BC15-5DCFDBB263AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.AsynchronousTimer", "AsynchronousTimer\03.AsynchronousTimer.csproj", "{03C7A83B-44C0-4D2D-9CE4-5E7A6C964AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.StudentClass", "StudentClass\04.StudentClass.csproj", "{B1D5764E-17CA-4319-B581-519E4C9164F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE95520-FC94-4973-ADB7-5CDD1BA4D545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE95520-FC94-4973-ADB7-5CDD1BA4D545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE95520-FC94-4973-ADB7-5CDD1BA4D545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE95520-FC94-4973-ADB7-5CDD1BA4D545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DA0A16-57AE-4277-BC15-5DCFDBB263AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DA0A16-57AE-4277-BC15-5DCFDBB263AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DA0A16-57AE-4277-BC15-5DCFDBB263AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DA0A16-57AE-4277-BC15-5DCFDBB263AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C7A83B-44C0-4D2D-9CE4-5E7A6C964AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C7A83B-44C0-4D2D-9CE4-5E7A6C964AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C7A83B-44C0-4D2D-9CE4-5E7A6C964AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C7A83B-44C0-4D2D-9CE4-5E7A6C964AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D5764E-17CA-4319-B581-519E4C9164F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D5764E-17CA-4319-B581-519E4C9164F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D5764E-17CA-4319-B581-519E4C9164F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D5764E-17CA-4319-B581-519E4C9164F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
